@@ -41,4 +41,5 @@ Function expressions
 Arrow functions
 
 Callback functions
+
 Simple web calculator using prompt and alert
